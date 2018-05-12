@@ -1,10 +1,16 @@
 _repo: Summer-Provinces-by-the-Sea-A-description-of-the-Vacation-Resources-of-Eastern-Quebec-and-the__48774
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 48774-h/images/cover.jpg
 creator:
   author:
     agent_name: Railway, Intercontinental
     gutenberg_agent_id: '44966'
     url: http://www.gutenberg.org/2009/agents/44966
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48774#Summer-Provinces-by-the-Sea-A-description-of-the-Vacation-Resources-of-Eastern-Quebec-and-the_
 gutenberg_issued: '2015-04-24'
 gutenberg_type: Text
 identifiers:
